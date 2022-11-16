@@ -16,5 +16,6 @@ Just type:
    <h3>rwfi</h3>
 in terminal to use the tool.
 *Do not use sudo rwfi
+It might take upto 10mins to take effect depending on your device.
 </div>
 </pre>
