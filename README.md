@@ -15,7 +15,7 @@ Use the name of RWFI package according to your system architecture.
 Just type: 
    <h3>rwfi</h3>
 in terminal to use the tool.
-*Do not use sudo rwfi
+*Do not use "sudo rwfi" i.e., do not run as superuser until prompted.
 It might take upto 10mins to take effect depending on your device.
 </div>
 </pre>
